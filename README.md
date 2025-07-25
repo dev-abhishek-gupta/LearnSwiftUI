@@ -32,7 +32,7 @@ A comprehensive, example-driven project to help you learn SwiftUI by exploring r
 ### Property Wrappers
 - ConditionalView, ForEachView, InitializerView, SystemImageView
 
-### **MissingTopics** (New)
+### **Good To Know** (New)
 - **FormView.swift**: How to use `Form` for data entry
 - **TabViewDemo.swift**: Tab-based navigation with `TabView`
 - **SheetDemoView.swift**: Presenting modal sheets
