@@ -9,7 +9,7 @@ A comprehensive, example-driven project to help you learn SwiftUI by exploring r
   - **Properties/**: Property wrappers and view properties (e.g., State, ForEach, Group, SystemImage, etc.)
   - **Reactive Programming/**: State management and reactive patterns (e.g., State, Binding, ObservableObject, EnvironmentObject)
   - **View Components/**: Core SwiftUI components (e.g., Button, Text, Image, Stack, Shape, Gradient, etc.)
-  - **MissingTopics/**: Additional important SwiftUI topics (see below)
+  - **Good To Know/**: Additional important SwiftUI topics (see below)
   - **ContentView.swift**: Entry point for the app
   - **LearnSwiftUIApp.swift**: App lifecycle
   - **Item.swift**: Supporting model(s)
